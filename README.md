@@ -1,1 +1,1 @@
-# Olympics_medal_predictor
+# Olympics medal predictor
